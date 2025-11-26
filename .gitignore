@@ -1,0 +1,4 @@
+/.terraform
+terraform.tfvars
+id_rsa
+id_rsa.pub
