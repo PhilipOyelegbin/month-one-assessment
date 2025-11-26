@@ -116,8 +116,8 @@ month-one-assessment/
 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/philipoyelegbin/clmas.git
-   cd clmas
+   git clone https://github.com/PhilipOyelegbin/month-one-assessment.git
+   cd month-one-assessment
    ```
 
 2. Create an SSH key
@@ -163,6 +163,8 @@ month-one-assessment/
 
    ![Preview website1](./evidence/preview1.png)
    ![Preview website2](./evidence/preview2.png)
+
+   > Other deployment evidence can be found **[HERE](./evidence/)**.
 
 6. Clean up the resources
 
